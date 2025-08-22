@@ -8,3 +8,6 @@ graph TD
  F((Hình tròn))
  G{Hình thoi}
  H{{Hình lục giác}}
+ I[/Hình thang/]
+ J[\Hình thang ngược\]
+```
